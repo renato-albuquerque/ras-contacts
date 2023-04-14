@@ -132,3 +132,15 @@ button {
     display: flex;
     gap: 1.2rem;
 }
+
+/* page-about */
+
+.titleAbout {
+    margin-bottom: 3rem;
+}
+
+.textAbout {
+    text-align: justify;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
