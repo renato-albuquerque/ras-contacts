@@ -66,7 +66,9 @@ p {
 }
 
 ul {
-    margin-top: 3.0rem;  
+    margin-top: 3.0rem; 
+    width: 28rem;   /* updated project. */
+    margin: 3rem auto;  /* updated project. */
 }
 
 li {
