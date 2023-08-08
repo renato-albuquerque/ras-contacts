@@ -22,7 +22,6 @@ Freelance project developed for the "Lawyer Rivadal Silva". Purpose of grouping 
 
 ## Author
 
-- Business Card - [Renato Albuquerque](https://portfolio-renatoalbuquerque.vercel.app/)
+- Business Card - [Renato Albuquerque](https://rma-contacts.vercel.app/)
 - Linkedin - [renato-malbuquerque](https://www.linkedin.com/in/renato-malbuquerque/)
 - Discord - [Renato Albuquerque#0025](https://discordapp.com/users/992621595547938837)
-- Frontend Mentor - [@renato-albuquerque](https://www.frontendmentor.io/profile/renato-albuquerque)
